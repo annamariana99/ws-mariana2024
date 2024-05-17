@@ -3,16 +3,13 @@ package controller
 import (
 	"errors"
 	"fmt"
-
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2"
-
-	"net/http"
-
-	cek "github.com/annamariana99/cobapackage/module"
+	cek "github.com/indrariksa/cobapakcage/module"
 	"github.com/annamariana99/ws-mariana2024/config"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
+	"net/http"
 )
 
 func Homepage(c *fiber.Ctx) error {

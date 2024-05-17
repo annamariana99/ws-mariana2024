@@ -19,7 +19,6 @@ require (
 	github.com/aiteung/atmessage v0.0.27 // indirect
 	github.com/aiteung/atmodel v0.0.4 // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
-	github.com/annamariana99/cobapackage v0.0.0-20240507072543-10258f6e3430 // indirect
 	github.com/fasthttp/websocket v1.5.3 // indirect
 	github.com/go-sql-driver/mysql v1.7.1 // indirect
 	github.com/gofiber/websocket/v2 v2.2.1 // indirect
